@@ -1,0 +1,2 @@
+button.btnRemove{ padding: 10px; text-align: center; width: 100%; margin: 10px 0 0 0; border: 1px solid #e32636; background: #cf352e; color: #fff;margin: 0; display: block;}
+button.btnRemove:hover{ background: #e32636; cursor: pointer}

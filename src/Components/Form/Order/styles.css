@@ -1,0 +1,11 @@
+.payment{padding: 30px 0;}
+.payment h2{font-family: Georgia, serif; font-size: 28px; padding: 10px 0;}
+
+.form{background: #eee;margin-top: 10px; padding: 10px;}
+.form input[type="text"]{border: 0; width: 100%; padding: 10px; margin-top: 10px;}
+.form button.sendOrderBtn{ padding: 10px; text-align: center; width: 100%; border: 1px solid darkgreen; width: 200px; background: darkgreen; color: #fff; margin-top: 10px;}
+.form button.sendOrderBtn:hover{ background: green; cursor: pointer; border: 1px solid darkgreen; }
+
+.paymentOptions{display: flex; gap: 10px}
+.paymentOptions label{margin-left: 0; padding: 10px; display: inline-block;}
+h2.subtitle{margin-top: 20px;}

@@ -1,0 +1,8 @@
+.productCard {background: #eee; padding: 10px; max-width: 248.5px;}
+.productCard .boxImage {border: 1px solid #ccc; padding: 5px; background: #fff; position: relative;}
+.productCard .boxImage img {display: block; width: 100%; height: auto;}
+.productCard .boxImage p.quantity{ position: absolute; top: 5px; right: 5px; background: #000; font-family: Arial, sans-serif; font-size: 14px; color: #fff; padding: 5px; width: 26px; height: 26px; text-align: center; margin: 0;}
+.productCard h2{font-family: Georgia, serif; font-size: 18px; padding: 10px 0;}
+.productCard p.price{font-family: Arial, sans-serif; font-size: 14px;}
+.productCard button{ padding: 10px; text-align: center; width: 100%; margin: 10px 0 0 0; border: 1px solid #ccc;}
+.productCard button:hover{ background: cadetblue; cursor: pointer; border: 1px solid cadetblue;}

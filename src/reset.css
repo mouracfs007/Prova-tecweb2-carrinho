@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width:1199px), only screen and (max-device-width:1199px){
+  .container{
+    max-width: 960px;
+  }
+}
+
+@media only screen and (max-width:991px), only screen and (max-device-width:991px){
+  .container{
+    max-width: 100%;
+  }
+}

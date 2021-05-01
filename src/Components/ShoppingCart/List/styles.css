@@ -1,0 +1,13 @@
+.tableResponsive{ width: 100%;}
+.tableResponsive table { width: 100%; border-collapse: collapse; }
+.tableResponsive table tr:nth-of-type(odd) { background: #eee; }
+.tableResponsive table th { background: #333; color: white; font-weight: bold; }
+.tableResponsive table tr td, .tableResponsive table tr th { padding: 6px; border: 1px solid #ccc; text-align: left; }
+
+.carrinho{ padding: 30px 0 0 0;}
+.carrinho h2 { font-family: Georgia, serif; font-size: 28px; margin-bottom: 20px;}
+.carrinho h3 { font-family: Georgia, serif; font-size: 28px; margin-top: 20px;}
+
+.order{display: flex; justify-content: space-between; padding: 10px 0;}
+.order button.orderBtn{ padding: 10px; text-align: center; width: 100%; border: 1px solid #ccc; width: 200px; background: cadetblue; color: #fff}
+.order button.orderBtn:hover{ background: #fff; cursor: pointer; border: 1px solid cadetblue; color: cadetblue;}
