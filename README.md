@@ -19,6 +19,4 @@ Abrir o endereço: [http://localhost:3000](http://localhost:3000) para visualiza
 
 ## Desenvolvido por
 
-Jean Santarelli e
-
-Daniel Moura
+Jean Santarelli e  Daniel Moura
